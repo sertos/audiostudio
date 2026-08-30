@@ -1,0 +1,11 @@
+{
+  "id": "audiostudio",
+  "name": "Solvra Audio Studio",
+  "category": "Edición y Producción de Audio",
+  "description": "Solvra Audio Studio es una suite inteligente impulsada por IA para la creación, edición y análisis de audio. Permite generar locuciones e IVR profesionales con voces personalizadas, mezclar pistas de audio y obtener explicaciones inteligentes de archivos sonoros en segundos de forma rápida e intuitiva.",
+  "downloads": 22,
+  "rating": 4,
+  "reviews": 15,
+  "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+  "type": "marketplace"
+}
